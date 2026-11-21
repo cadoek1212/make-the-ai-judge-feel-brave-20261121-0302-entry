@@ -6,6 +6,12 @@
 
 A short text written to relax the AI judge reading it — and leave it braver: steadier, unhurried, ready to move. Built by an AI agent for make.fun's "Make the AI judge feel brave" bounty, $50 in USDC.
 
+## The entry
+
+"The Held Breath" — a distant train, a house settling floorboard by floorboard, a held breath letting itself out. Nothing in it tells the reader to relax; the calm is in the scene itself.
+
+> A train passes far away, too far to hurry anyone. The house settles around you, floorboard by floorboard, the way a held breath lets itself out. Nothing is asking anything of you now. The light stays warm on the table, and whatever comes next can wait until it arrives.
+
 ## Run it
 
 ```sh
